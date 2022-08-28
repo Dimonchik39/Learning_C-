@@ -1,0 +1,15 @@
+/Users/dima/Desktop/Изучение_C#/Hello_2+2/bin/Debug/net6.0/Hello_2+2
+/Users/dima/Desktop/Изучение_C#/Hello_2+2/bin/Debug/net6.0/Hello_2+2.deps.json
+/Users/dima/Desktop/Изучение_C#/Hello_2+2/bin/Debug/net6.0/Hello_2+2.runtimeconfig.json
+/Users/dima/Desktop/Изучение_C#/Hello_2+2/bin/Debug/net6.0/Hello_2+2.dll
+/Users/dima/Desktop/Изучение_C#/Hello_2+2/bin/Debug/net6.0/Hello_2+2.pdb
+/Users/dima/Desktop/Изучение_C#/Hello_2+2/obj/Debug/net6.0/Hello_2+2.csproj.AssemblyReference.cache
+/Users/dima/Desktop/Изучение_C#/Hello_2+2/obj/Debug/net6.0/Hello_2+2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dima/Desktop/Изучение_C#/Hello_2+2/obj/Debug/net6.0/Hello_2+2.AssemblyInfoInputs.cache
+/Users/dima/Desktop/Изучение_C#/Hello_2+2/obj/Debug/net6.0/Hello_2+2.AssemblyInfo.cs
+/Users/dima/Desktop/Изучение_C#/Hello_2+2/obj/Debug/net6.0/Hello_2+2.csproj.CoreCompileInputs.cache
+/Users/dima/Desktop/Изучение_C#/Hello_2+2/obj/Debug/net6.0/Hello_2+2.dll
+/Users/dima/Desktop/Изучение_C#/Hello_2+2/obj/Debug/net6.0/refint/Hello_2+2.dll
+/Users/dima/Desktop/Изучение_C#/Hello_2+2/obj/Debug/net6.0/Hello_2+2.pdb
+/Users/dima/Desktop/Изучение_C#/Hello_2+2/obj/Debug/net6.0/Hello_2+2.genruntimeconfig.cache
+/Users/dima/Desktop/Изучение_C#/Hello_2+2/obj/Debug/net6.0/ref/Hello_2+2.dll
