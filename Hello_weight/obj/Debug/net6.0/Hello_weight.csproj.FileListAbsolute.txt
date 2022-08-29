@@ -1,0 +1,15 @@
+/Users/dima/Desktop/Изучение_C#/Hello_weight/bin/Debug/net6.0/Hello_weight
+/Users/dima/Desktop/Изучение_C#/Hello_weight/bin/Debug/net6.0/Hello_weight.deps.json
+/Users/dima/Desktop/Изучение_C#/Hello_weight/bin/Debug/net6.0/Hello_weight.runtimeconfig.json
+/Users/dima/Desktop/Изучение_C#/Hello_weight/bin/Debug/net6.0/Hello_weight.dll
+/Users/dima/Desktop/Изучение_C#/Hello_weight/bin/Debug/net6.0/Hello_weight.pdb
+/Users/dima/Desktop/Изучение_C#/Hello_weight/obj/Debug/net6.0/Hello_weight.csproj.AssemblyReference.cache
+/Users/dima/Desktop/Изучение_C#/Hello_weight/obj/Debug/net6.0/Hello_weight.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dima/Desktop/Изучение_C#/Hello_weight/obj/Debug/net6.0/Hello_weight.AssemblyInfoInputs.cache
+/Users/dima/Desktop/Изучение_C#/Hello_weight/obj/Debug/net6.0/Hello_weight.AssemblyInfo.cs
+/Users/dima/Desktop/Изучение_C#/Hello_weight/obj/Debug/net6.0/Hello_weight.csproj.CoreCompileInputs.cache
+/Users/dima/Desktop/Изучение_C#/Hello_weight/obj/Debug/net6.0/Hello_weight.dll
+/Users/dima/Desktop/Изучение_C#/Hello_weight/obj/Debug/net6.0/refint/Hello_weight.dll
+/Users/dima/Desktop/Изучение_C#/Hello_weight/obj/Debug/net6.0/Hello_weight.pdb
+/Users/dima/Desktop/Изучение_C#/Hello_weight/obj/Debug/net6.0/Hello_weight.genruntimeconfig.cache
+/Users/dima/Desktop/Изучение_C#/Hello_weight/obj/Debug/net6.0/ref/Hello_weight.dll
