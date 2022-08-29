@@ -1,0 +1,15 @@
+/Users/dima/Desktop/Изучение_C#/Hello_Masha/bin/Debug/net6.0/Hello_Masha
+/Users/dima/Desktop/Изучение_C#/Hello_Masha/bin/Debug/net6.0/Hello_Masha.deps.json
+/Users/dima/Desktop/Изучение_C#/Hello_Masha/bin/Debug/net6.0/Hello_Masha.runtimeconfig.json
+/Users/dima/Desktop/Изучение_C#/Hello_Masha/bin/Debug/net6.0/Hello_Masha.dll
+/Users/dima/Desktop/Изучение_C#/Hello_Masha/bin/Debug/net6.0/Hello_Masha.pdb
+/Users/dima/Desktop/Изучение_C#/Hello_Masha/obj/Debug/net6.0/Hello_Masha.csproj.AssemblyReference.cache
+/Users/dima/Desktop/Изучение_C#/Hello_Masha/obj/Debug/net6.0/Hello_Masha.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dima/Desktop/Изучение_C#/Hello_Masha/obj/Debug/net6.0/Hello_Masha.AssemblyInfoInputs.cache
+/Users/dima/Desktop/Изучение_C#/Hello_Masha/obj/Debug/net6.0/Hello_Masha.AssemblyInfo.cs
+/Users/dima/Desktop/Изучение_C#/Hello_Masha/obj/Debug/net6.0/Hello_Masha.csproj.CoreCompileInputs.cache
+/Users/dima/Desktop/Изучение_C#/Hello_Masha/obj/Debug/net6.0/Hello_Masha.dll
+/Users/dima/Desktop/Изучение_C#/Hello_Masha/obj/Debug/net6.0/refint/Hello_Masha.dll
+/Users/dima/Desktop/Изучение_C#/Hello_Masha/obj/Debug/net6.0/Hello_Masha.pdb
+/Users/dima/Desktop/Изучение_C#/Hello_Masha/obj/Debug/net6.0/Hello_Masha.genruntimeconfig.cache
+/Users/dima/Desktop/Изучение_C#/Hello_Masha/obj/Debug/net6.0/ref/Hello_Masha.dll
