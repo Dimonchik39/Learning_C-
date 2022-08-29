@@ -1,0 +1,15 @@
+/Users/dima/Desktop/Изучение_C#/Hello_cycle/obj/Debug/net6.0/Hello_cycle.csproj.AssemblyReference.cache
+/Users/dima/Desktop/Изучение_C#/Hello_cycle/obj/Debug/net6.0/Hello_cycle.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dima/Desktop/Изучение_C#/Hello_cycle/obj/Debug/net6.0/Hello_cycle.AssemblyInfoInputs.cache
+/Users/dima/Desktop/Изучение_C#/Hello_cycle/obj/Debug/net6.0/Hello_cycle.AssemblyInfo.cs
+/Users/dima/Desktop/Изучение_C#/Hello_cycle/obj/Debug/net6.0/Hello_cycle.csproj.CoreCompileInputs.cache
+/Users/dima/Desktop/Изучение_C#/Hello_cycle/bin/Debug/net6.0/Hello_cycle
+/Users/dima/Desktop/Изучение_C#/Hello_cycle/bin/Debug/net6.0/Hello_cycle.deps.json
+/Users/dima/Desktop/Изучение_C#/Hello_cycle/bin/Debug/net6.0/Hello_cycle.runtimeconfig.json
+/Users/dima/Desktop/Изучение_C#/Hello_cycle/bin/Debug/net6.0/Hello_cycle.dll
+/Users/dima/Desktop/Изучение_C#/Hello_cycle/bin/Debug/net6.0/Hello_cycle.pdb
+/Users/dima/Desktop/Изучение_C#/Hello_cycle/obj/Debug/net6.0/Hello_cycle.dll
+/Users/dima/Desktop/Изучение_C#/Hello_cycle/obj/Debug/net6.0/refint/Hello_cycle.dll
+/Users/dima/Desktop/Изучение_C#/Hello_cycle/obj/Debug/net6.0/Hello_cycle.pdb
+/Users/dima/Desktop/Изучение_C#/Hello_cycle/obj/Debug/net6.0/Hello_cycle.genruntimeconfig.cache
+/Users/dima/Desktop/Изучение_C#/Hello_cycle/obj/Debug/net6.0/ref/Hello_cycle.dll
